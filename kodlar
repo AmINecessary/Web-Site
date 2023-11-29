@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teknoloji bağımlılığını engellemek için yapılacak şeyler.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Bağımlı mısınız?</h1>
+    <p>Teknolojiye bağımlılık, dikkat kaybı, göz rahatsızlıkları gibi sorınlar oluşturabilir. Bağımlı olup olmadığığnızı öğrenmek için</p>
+    <p>teknolojiyi ne sıklıkla kullandığınızı kontrol edebilirsiniz. Yaşınıza göre yarım saatten üç saate kadar uzanan ideal süreden</p>
+    <p>fazla bakmanız ve sürekli teknoloji hakkında düşünmeniz bağımlılı olma ihtimalinizi arttırabilir.</p>
+    <img src="https://cdn.yenicaggazetesi.com.tr/news/2022/06/90620221122139778435_1.jpg" alt="Image1">
+    <h1>Bağımlılıktan kurtulmanın yolları.</h1>
+    <p>Cihazınızı ders çalışırken ortamdan kaldırmak, veya cihaza erişiminizi kısıtlayacak güvenilir uygulamalar yüklemek gibi çözümle-</p>
+    <p>re başvurabilirsiniz.</p>
+</body>
+
+</html>
